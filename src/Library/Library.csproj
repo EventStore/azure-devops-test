@@ -7,6 +7,8 @@
 		<Platform>AnyCPU</Platform>
 		<DebugSymbols>true</DebugSymbols>
 		<DebugType>pdbonly</DebugType>
+		<OutputPath>../../target/bin</OutputPath>
+		<IntermediateOutputPath>../../target/obj</IntermediateOutputPath>
 	</PropertyGroup>
 </Project>
 
